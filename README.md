@@ -1,7 +1,7 @@
 
 # KnightMove
 
-A Windows lateral movement tool that abuses core Windows components — the Service Control Manager (SCM), Windows Registry, and COM class registration — to stage and load a remote DLL via WebDAV.
+A PSexec-like Windows lateral movement tool that abuses core Windows components — the Service Control Manager (SCM), Windows Registry, and COM class registration — to stage and load a remote DLL via WebDAV.
 
 > ⚠️ **For authorized security testing and research only.** See [Disclaimer](#disclaimer).
 
