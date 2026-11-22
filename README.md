@@ -10,7 +10,7 @@ A Windows lateral movement tool that abuses core Windows components — the Serv
 ## Demo
 
 <!-- Replace the path below with the path to your uploaded GIF -->
-![KnightMove Demo](./knightmove-demo.gif)
+![KnightMove Demo](./kmov.mp4)
 
 ---
 
